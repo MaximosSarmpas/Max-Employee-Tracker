@@ -1,6 +1,6 @@
   # Employee Tracker
   ![Github License](https://img.shields.io/badge/license-MIT-green)
-  
+  "C:\Users\13435\OneDrive\Pictures\Screenshots\Screenshot 2023-02-19 190028.png"
   Video Recorded LINK: https://drive.google.com/file/d/1G58sf2H3ryHG9nDVjDZaI5kvvItVdyDU/view
   ## Table of Contents
   
