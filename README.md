@@ -1,7 +1,7 @@
   # Employee Tracker
   ![Github License](https://img.shields.io/badge/license-MIT-green)
   
-  
+  Video Recorded LINK: https://drive.google.com/file/d/1G58sf2H3ryHG9nDVjDZaI5kvvItVdyDU/view
   ## Table of Contents
   
   [Description](#description)
