@@ -1,13 +1,16 @@
+// Import necessary modules
 const { prompt } = require("inquirer");
 const db = require("./db");
 require("console.table");
 
+// Initialize the application
 init();
 
+// Main function to run the prompt interface
 function init() {
     runPrompts();
 }
-
+// Function to display and handle the main menu prompts
 function runPrompts() {
     prompt([
         {
