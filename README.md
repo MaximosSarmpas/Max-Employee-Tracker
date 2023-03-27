@@ -22,7 +22,7 @@
   1. Clone repository to local machine. 2.Open integrated terminal in personal IDE. 3.Run "npm i" to install dependencies 
   
   ## Usage
-  1.Create database and schema in MySQL using schema.sql. 2.Insert datain MySQL using seed.sql. 3.Run "node index.js" in opened integrated terminal. 4.Answer all prompts in command-line to manage database
+  1.Create database and schema in MySQL using schema.sql. 2.Insert data in MySQL using seed.sql. 3.Run "node index.js" in opened integrated terminal. 4.Answer all prompts in command-line to manage database
   
   ## Tests
   node index.js
