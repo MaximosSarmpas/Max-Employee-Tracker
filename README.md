@@ -34,4 +34,4 @@
   
   ## Questions
   https://github.com/MaximosSarmpas 
-  Contact me at: maximakos.s@gmail.comracker
+  Contact me at: maximakos.s@gmail.com
